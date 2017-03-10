@@ -1,0 +1,1 @@
+E:\avr/bin/avrdude -C E:\avr/bin/avrdude.conf -v -v -v -v -patmega32u4 -cavr109 -P\\.\COM6 -b57600 -D -Uflash:w:E:\Blink.cpp.hex:i 
